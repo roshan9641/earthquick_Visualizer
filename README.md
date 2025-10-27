@@ -41,7 +41,7 @@ Open your browser at http://localhost:5173
 🌐 Deployment
 
 Deployed on CodeSandbox
- (or your deployed link)
+https://pfpjzt-5173.csb.app
 
 👩‍🎓 Author
 
